@@ -79,6 +79,12 @@
    
 </table>
 
+<h4 align="left">I know about:</h4>
+
+
+![Skills](https://skillicons.dev/icons?i=git,github,bash,md,vscode,flutter,unity,autocad&perline=11)
+
+<br>
 
 
 
@@ -89,3 +95,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purushottam54&show_icons=true&locale=en" alt="purushottam54" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purushottam54&" alt="purushottam54" /></p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
