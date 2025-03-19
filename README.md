@@ -2,7 +2,6 @@
 
  <h1 align="center">HEY IT'S ME <span style="color: orange;">Purushottam Sarsekar</span></h1>
 
-![logo](https://github.com/purushottam54/purushottam54/blob/main/Github%20Banner.png)
 <h3 align="center">A passionate software engineer developer from India</h3>
 
 
